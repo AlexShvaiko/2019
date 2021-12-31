@@ -1,0 +1,1 @@
+codef.d: ../codef.c
